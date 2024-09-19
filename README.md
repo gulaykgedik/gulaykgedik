@@ -6,6 +6,10 @@
 - 💞️ I'd like to work with people.
 - 📫 How can you reach me gulaykizilgedik@gmail.com
 
+  <h2>Connect with me:</h2>
+  
+  https://www.linkedin.com/feed/
+
 
 <!---
 gulaykgedik/gulaykgedik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
