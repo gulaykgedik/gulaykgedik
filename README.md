@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @gulaykgedik
+   <h1>👋 Hi, I’m @gulaykgedik </h1> 
+  <br/>
+   
 - 👀 I’m interested in learning and teaching.
 - 🌱 I’m currently learning js, node.js, react, react native.
 - 💞️ I'd like to work with people.
