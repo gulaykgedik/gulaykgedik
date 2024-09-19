@@ -8,7 +8,7 @@
 
   <h2>Connect with me:</h2>
   
-  https://www.linkedin.com/feed/
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSb3yxSvGWKZrCxMnFCHlllpH4-WitjGvijg&s"></img>
 
 
 <!---
