@@ -8,7 +8,7 @@
 
   <h2>Connect with me:</h2>
   
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSb3yxSvGWKZrCxMnFCHlllpH4-WitjGvijg&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qONJfLFqTbfAacaOuzgSQQigqxPM2o8njg&s)" width="50px"></img>
+  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSb3yxSvGWKZrCxMnFCHlllpH4-WitjGvijg&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qONJfLFqTbfAacaOuzgSQQigqxPM2o8njg&s)" ></img>
 
 
 <!---
