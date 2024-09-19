@@ -6,9 +6,7 @@
 - 💞️ I'd like to work with people.
 - 📫 How can you reach me gulaykizilgedik@gmail.com
 
-  <h2>Connect with me:</h2>
   
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSb3yxSvGWKZrCxMnFCHlllpH4-WitjGvijg&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qONJfLFqTbfAacaOuzgSQQigqxPM2o8njg&s)" ></img>
 
 
 <!---
