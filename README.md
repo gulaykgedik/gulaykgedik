@@ -1,13 +1,3 @@
-   <h1>👋 Hi, I’m Gülay Kızılgedik </h1> 
-  <br/>
-   
-- 👀 I’m interested in learning and teaching.
-- 🌱 I’m currently learning js, node.js, react, react native.
-- 💞️ I'd like to work with people.
-- 📫 How can you reach me gulaykizilgedik@gmail.com
-
-  
-
 
 <h1 align="center">Hi 👋, I'm Gülay Kızılgedik</h1>
 <h3 align="center">A passionate frontend developer from Türkey</h3>
