@@ -1,9 +1,12 @@
 
-👋 Hi, I'm Gülay Kızılgedik
-🎯 A Passionate Frontend Developer from Turkey
+# 👋 Hi, I'm Gülay Kızılgedik
+
+##🎯 A Passionate Frontend Developer from Turkey
+
 🚀 I'm a continuously learning and growing software developer, currently focusing on JavaScript, React, React Native, Next.js, and NestJS. I enjoy creating modern, user-friendly, and accessible interfaces and aim to become a well-rounded full-stack developer.
 
-🛠️ Technologies I Use & Learn
+## 🛠️ Technologies I Use & Learn
+
 💻 Frontend: HTML, CSS, Bootstrap, JavaScript, React, Next.js
 
 📱 Mobile: React Native (in progress)
@@ -12,7 +15,8 @@
 
 🎨 Design: Responsive Design, UI/UX fundamentals, Figma
 
-📈 My Learning Journey
+## 📈 My Learning Journey
+
 I love building intuitive web and mobile applications using modern technologies. I'm particularly interested in Next.js for its Server Side Rendering and performance benefits. On the backend side, I'm exploring NestJS to create scalable and maintainable APIs.
 
 <h3 align="left">Languages and Tools:</h3>
