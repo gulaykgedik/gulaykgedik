@@ -9,7 +9,7 @@
 
 💻 Frontend: HTML, CSS, Bootstrap, JavaScript, React, Next.js
 
-📱 Mobile: React Native (in progress)
+📱 Mobile: React Native
 
 🌐 Backend: Node.js, NestJS (a powerful TypeScript-based backend framework)
 
