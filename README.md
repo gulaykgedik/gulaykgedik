@@ -22,5 +22,8 @@ I love building intuitive web and mobile applications using modern technologies.
 ## 📬 Contact Me
 
 💌 gulaykizilgedik@gmail.com
+
+💼 LinkedIn:  https://www.linkedin.com/in/g%C3%BClay-kizilgedik/
+
 💬 Feel free to reach out if you have questions about HTML, CSS, Bootstrap, Tailwind CSS, React or Next.js
 
